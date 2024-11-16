@@ -10,6 +10,11 @@ header {
     color: #ffffff;
     padding: 20px 0;
 }
+.logo{
+    height: 80px;
+    float:left;
+    margin-right:20px;
+}
 
 header h1 {
     margin: 0;
